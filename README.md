@@ -8,3 +8,9 @@ To run this example:
 - `npm run dev` or `yarn dev`
 
 Follow Me On Instagram https://github.com/cu-sanjay/DevTown/issues/1#issue-1284819349
+{
+  "image": "https://github.com/cu-sanjay/DevTown/issues/1#issue-1284819349",
+  "issueId": 1,
+  "name": "Sanjay Choudhary",
+  "username": "cu-sanjay"
+}
