@@ -6,3 +6,5 @@ To run this example:
 
 - `npm install` or `yarn`
 - `npm run dev` or `yarn dev`
+
+https://github.com/cu-sanjay/DevTown/issues/1#issue-1284819349
