@@ -1,4 +1,6 @@
-# Project By Sanjay Choudhary
+# DevTown Project By Sanjay Choudhary
+# Authentication server using MongoDB and NodeJs
+# Project - Simple Registration and Login Portal
 
 To run this example:
 
